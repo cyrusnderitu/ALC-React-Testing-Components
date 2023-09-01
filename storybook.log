@@ -1,0 +1,6 @@
+npm ERR! code ERR_SSL_CIPHER_OPERATION_FAILED
+npm ERR! errno ERR_SSL_CIPHER_OPERATION_FAILED
+npm ERR! Invalid response body while trying to fetch https://registry.npmjs.org/@storybook%2fpreset-create-react-app: 4C3E0000:error:1C800066:Provider routines:ossl_gcm_stream_update:cipher operation failed:c:\ws\deps\openssl\openssl\providers\implementations\ciphers\ciphercommon_gcm.c:320:
+npm ERR! 
+
+npm ERR! A complete log of this run can be found in: C:\Users\CYRUS\AppData\Local\npm-cache\_logs\2023-09-01T13_39_14_018Z-debug-0.log
